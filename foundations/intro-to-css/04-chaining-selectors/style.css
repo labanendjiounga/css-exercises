@@ -1,1 +1,6 @@
 /* Add CSS Styling */
+
+img.proportioned {
+    width: 300px;
+    height: auto;
+}
