@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+.black-button {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.yellow-button {
+    background-color: rgb(255, 255, 0);
+}
